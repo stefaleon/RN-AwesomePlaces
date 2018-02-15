@@ -27,3 +27,10 @@ npm run eject
 * Add the handler for the submit event.
 
 * Output the stored *places* in another view.
+
+
+
+&nbsp;
+## ListItem
+
+* Add a ListItem component.
