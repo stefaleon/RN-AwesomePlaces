@@ -33,4 +33,11 @@ npm run eject
 &nbsp;
 ## ListItem
 
-* Add a ListItem component.
+* Add the *src* folder and the *ListItem* component.
+
+
+
+&nbsp;
+## Refactor to components
+
+* Refactor the components to the *PlaceList* and *PlaceInput* files in the *src* folder.
