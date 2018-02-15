@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
-import { StyleSheet, Text, View, TextInput } from 'react-native';
+import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
 
 export default class App extends Component {
   state = {
-    placeName: ''
+    placeName: '',
+    places: []
   }
 
   placeNameChangedHandler = val =>  {
@@ -12,15 +13,39 @@ export default class App extends Component {
     });
   };
 
+  placeSubmitHandler = () => {
+    if( this.state.placeName.trim() === "") {
+      return;
+    }
+    this.setState(prevState => {
+      return {
+        places: prevState.places.concat(prevState.placeName)
+      };
+    });
+  };
+
   render() {
+    const placesOutput = this.state.places.map((place, i) => (
+      <Text key={i}>{place}</Text>
+    ));
     return (
       <View style={styles.container}>
-        <TextInput
-          style={{width: 300, borderColor: "black", borderWidth: 1}}
-          placeholder="An awesome place"
-          value={this.state.placeName}
-          onChangeText={this.placeNameChangedHandler}
-        />
+        <View style={styles.inputContainer}>
+          <TextInput
+            style={styles.placeInput}
+            placeholder="An awesome place"
+            value={this.state.placeName}
+            onChangeText={this.placeNameChangedHandler}
+          />
+          <Button
+            title="Add"
+            style={styles.placeButton}
+            onPress={this.placeSubmitHandler}
+          />
+        </View>
+        <View>
+          {placesOutput}
+        </View>
       </View>
     );
   }
@@ -34,10 +59,16 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'flex-start',
   },
-  titleText: {
-    fontSize: 50,
-    fontWeight: 'bold',
-    color: 'red',
-    marginLeft: 130
+  inputContainer: {
+    width: "100%",
+    flexDirection: "row",
+    justifyContent: 'space-between',
+    alignItems: "center"
   },
+  placeInput: {
+    width: "70%"
+  },
+  placeButton: {
+    width: "30%"
+  }
 });

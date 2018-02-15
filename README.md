@@ -12,7 +12,18 @@ npm run eject
 ```
 
 
-&npsp;
+&nbsp;
 ## TextInput
 
 * Add a textInput for the *placeName* and the code for its functionality (initialize state, create handler, style it).
+
+
+
+&nbsp;
+## Button
+
+* Add a button and configure it. Contain it in another view along with the textInput.
+
+* Add the handler for the submit event.
+
+* Output the stored *places* in another view.
