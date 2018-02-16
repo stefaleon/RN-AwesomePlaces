@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Users\\l.stefanidis\\Desktop\\AwesomeProjectCRNA\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\l.stefanidis\\Desktop\\AwesomeProjectCRNA\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

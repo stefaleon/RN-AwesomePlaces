@@ -41,3 +41,10 @@ npm run eject
 ## Refactor to components
 
 * Refactor the components to the *PlaceList* and *PlaceInput* files in the *src* folder.
+
+
+
+&nbsp;
+## Listening to Touch Events
+
+* Wrap the *places* items inside *TouchableXXXX* wrapper components in order to react to touch events. 
