@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import { StyleSheet, View } from 'react-native';
 import PlaceInput from "./src/components/PlaceInput";
 import PlaceList from './src/components/PlaceList';
-import placeImage from './src/assets/batmanito.jpg';
+
 
 
 export default class App extends Component {
@@ -16,7 +16,9 @@ export default class App extends Component {
         places: prevState.places.concat({
           key: Math.random(),
           name: placeName,
-          image: placeImage
+          image: {
+              uri: "https://avatars2.githubusercontent.com/u/17907185?s=460&v=4"
+          }
         })
       };
     });

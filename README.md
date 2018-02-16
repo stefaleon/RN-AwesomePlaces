@@ -74,4 +74,10 @@ npm run eject
 &nbsp;
 ## Adding Static Images
 
-* Store an image for each *place* object. For now import the same image from the *assets* folder. Configure *ListItem* to display it. 
+* Store an image for each *place* object. For now import the same image from the *assets* folder. Configure *ListItem* to display it.
+
+
+&nbsp;
+## Using Network Images
+
+* Use the *uri* property to get the path to a web image.
