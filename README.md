@@ -62,3 +62,9 @@ npm run eject
 ## ScrollView
 
 * In the *PlaceList* return a *ScrollView* instead of a simple view.
+
+
+&nbsp;
+## Rendering Lists Correctly
+
+* Use the *FlatList* component to ensure performance for long dynamic lists. Refactor the *placeAddedHandler* so that the places array is filled with key-value objects instead of plain strings, in order to provide appropriate keys to the data. Adjust *placeDeletedHandler* accordingly. 
