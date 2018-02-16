@@ -67,4 +67,11 @@ npm run eject
 &nbsp;
 ## Rendering Lists Correctly
 
-* Use the *FlatList* component to ensure performance for long dynamic lists. Refactor the *placeAddedHandler* so that the places array is filled with key-value objects instead of plain strings, in order to provide appropriate keys to the data. Adjust *placeDeletedHandler* accordingly. 
+* Use the *FlatList* component to ensure performance for long dynamic lists. Refactor the *placeAddedHandler* so that the places array is filled with key-value objects instead of plain strings, in order to provide appropriate keys to the data. Adjust *placeDeletedHandler* accordingly.
+
+
+
+&nbsp;
+## Adding Static Images
+
+* Store an image for each *place* object. For now import the same image from the *assets* folder. Configure *ListItem* to display it. 
