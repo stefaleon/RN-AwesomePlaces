@@ -55,3 +55,10 @@ npm run eject
 ## Reacting to Press Events
 
 * Pass the clicked item's index from the *PlaceList* to the *placeDeletedHandler* in the App container using the *onItemDeleted* property.
+
+
+
+&nbsp;
+## ScrollView
+
+* In the *PlaceList* return a *ScrollView* instead of a simple view.
