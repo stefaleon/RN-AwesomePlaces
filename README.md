@@ -47,4 +47,11 @@ npm run eject
 &nbsp;
 ## Listening to Touch Events
 
-* Wrap the *places* items inside *TouchableXXXX* wrapper components in order to react to touch events. 
+* Wrap the *places* items inside *TouchableXXXX* wrapper components in order to react to touch events.
+
+
+
+&nbsp;
+## Reacting to Press Events
+
+* Pass the clicked item's index from the *PlaceList* to the *placeDeletedHandler* in the App container using the *onItemDeleted* property.
