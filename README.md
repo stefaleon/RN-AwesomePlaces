@@ -81,3 +81,9 @@ npm run eject
 ## Using Network Images
 
 * Use the *uri* property to get the path to a web image.
+
+
+&nbsp;
+## Adding a Modal
+
+* Add the *PlaceDetail* component. Select items instead of deleting. Configure the *placeSelectedHandler*. The passed prop to *PlaceDetail* is the found  *selectedPlace* object. Make the modal visible when we select a place (when *selectedPlace* is not null). Style the various parts.
