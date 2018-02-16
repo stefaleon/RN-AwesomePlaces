@@ -87,3 +87,9 @@ npm run eject
 ## Adding a Modal
 
 * Add the *PlaceDetail* component. Select items instead of deleting. Configure the *placeSelectedHandler*. The passed prop to *PlaceDetail* is the found  *selectedPlace* object. Make the modal visible when we select a place (when *selectedPlace* is not null). Style the various parts.
+
+
+&nbsp;
+## Delete and Close
+
+* Add the functionality to the buttons. Also set the required for Android *onRequestClose* modal prop to the same functionality as the close button.
