@@ -93,3 +93,16 @@ npm run eject
 ## Delete and Close
 
 * Add the functionality to the buttons. Also set the required for Android *onRequestClose* modal prop to the same functionality as the close button.
+
+
+
+&nbsp;
+## Setup for Redux
+
+* Install redux and react-redux.
+
+```
+$ npm install --save redux react-redux
+```
+
+* In *src*, create the *store* folder and the *reducers* subfolder.

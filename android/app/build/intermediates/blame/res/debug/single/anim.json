@@ -20,12 +20,12 @@
         "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\maimous\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\maimous\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
-    },
-    {
         "merged": "C:\\Users\\l.stefanidis\\Desktop\\AwesomeProjectCRNA\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
         "source": "C:\\Users\\l.stefanidis\\Desktop\\AwesomeProjectCRNA\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\maimous\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\maimous\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "C:\\Users\\l.stefanidis\\Desktop\\AwesomeProjectCRNA\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",

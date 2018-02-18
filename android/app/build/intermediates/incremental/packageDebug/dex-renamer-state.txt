@@ -1,4 +1,4 @@
-#Fri Feb 16 10:36:49 EET 2018
-base.0=C\:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Feb 18 12:06:15 EET 2018
+base.0=C\:\\Users\\maimous\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\maimous\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

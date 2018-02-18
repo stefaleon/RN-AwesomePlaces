@@ -96,20 +96,20 @@
         "source": "C:\\Users\\l.stefanidis\\Desktop\\AwesomeProjectCRNA\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
         "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.52.0\\res\\layout\\redbox_item_title.xml"
     },
     {
-        "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\l.stefanidis\\Desktop\\RN-AwesomePlaces\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\l.stefanidis\\Desktop\\AwesomeProjectCRNA\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
