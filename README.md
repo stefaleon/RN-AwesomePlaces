@@ -121,3 +121,9 @@ $ npm install --save redux react-redux
 * In *src/store/actions*, add *places.js* which will contain the action creators.
 
 * In *src/store/actions*, add *index.js* to bundle all exports so that we can import from this file only later on.
+
+
+&nbsp;
+## Setting Up the Reducer
+
+* Add the logic for the various cases in the reducer in *src/store/reducers/places.js*.
