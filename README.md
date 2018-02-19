@@ -106,3 +106,18 @@ $ npm install --save redux react-redux
 ```
 
 * In *src*, create the *store* folder and the *reducers* subfolder.
+
+
+
+&nbsp;
+## Add the reducer and the actions types and action creators
+
+* In *src/store/reducers*, add the *places.js* file and create the reducer.
+
+* In *src/store*, add the *actions* folder.
+
+* In *src/store/actions*, add *actionTypes.js*.
+
+* In *src/store/actions*, add *places.js* which will contain the action creators.
+
+* In *src/store/actions*, add *index.js* to bundle all exports so that we can import from this file only later on.
